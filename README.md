@@ -1,6 +1,6 @@
 # Interactive-Portfolio
 
-[![GitHub](https://img.shields.io/github/license/AjitVerma15/Interactive-Portfolio?color=green)](https://img.shields.io/github/license/AjitVerma15/Interactive-Portfolio)
+![Thiru](https://github.com/user-attachments/assets/3223887f-bbdc-4822-bc72-9742b4c5231c)
 
 ## A Resposive and attractive portfolio for Developers 🔥
 
